@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Banking App</string>
+    <string name="view_all_users">All Users</string>
+    <string name="balance">Balance</string>
+    <string name="user_profile">User profile</string>
+    <string name="send_money">Send money</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="send">send</string>
+    <string name="all_transaction">All Transaction</string>
+    <string name="fake_date">01.01.2000</string>
+    <string name="fake_time">12.00 AM</string>
+    <string name="bank_image">Bank Image</string>
+</resources>
